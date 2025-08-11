@@ -10,11 +10,11 @@ body {
 }
 
 #title {
-    color: #FFFFFF;
+    color: #CCFFFF;
     font-size: 28px;
     font-weight: bolder;
     margin: auto;
-    padding:50px
+    padding: 50px
 }
 
 #number-input {
@@ -54,7 +54,7 @@ body {
     padding: 10px;
     margin: 50px;
     background: #273549;
-    border-radius:5px;
+    border-radius: 5px;
     height: 100px;
 }
 
@@ -62,7 +62,7 @@ body {
     color: #CCC1FF;
 }
 
-.unit-result{
+.unit-result {
     color: #FFFFFF;
     font-family: inherit;
     font-size: 15px;
